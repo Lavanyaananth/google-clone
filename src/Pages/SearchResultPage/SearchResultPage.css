@@ -154,3 +154,9 @@
     margin-top: 10px;
   }
 }
+.search-result-page .home-body {
+  display: none;
+}
+.mininav {
+  font-size: 14px;
+}
