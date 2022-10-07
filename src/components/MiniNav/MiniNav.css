@@ -1,0 +1,12 @@
+.mininav-right {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-width: 13vw;
+}
+.mininav-header {
+  display: flex;
+  justify-content: flex-end;
+  padding: 20px 30px;
+  align-items: center;
+}
